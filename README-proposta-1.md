@@ -3,7 +3,7 @@
 <table width="100%">
 <tr>
 <td width="58%" valign="middle" align="left">
-  <p><sub>🟢 EXECUTIVE &amp; ENGINEERING PROFILE · TURIN, ITALY</sub></p>
+  <p><sub>🟢 DIGITAL ENGINEER · COMMUNICATION, MANAGEMENT, DEV &amp; QA · TURIN, ITALY</sub></p>
   <h1>Manoj Rollo</h1>
   <h3>Senior Digital Test Engineer · QA Manager · Project Manager &amp; AI Builder</h3>
   <p>

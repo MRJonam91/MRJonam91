@@ -15,12 +15,10 @@
   <a href="https://www.behance.net/fbxmanoddc8"><img src="https://img.shields.io/badge/BEHANCE-Creative-00FFA3?style=for-the-badge&logo=behance&logoColor=white&labelColor=0D1117" alt="Behance" /></a>
 </p>
 
-> 💡 **Interactive Multi-Profile Studio:** Click on any of the sections below to switch between themes right on GitHub!
-
 <p>
-  <a href="#-proposal-1-executive--engineering-hybrid-default-view"><img src="https://img.shields.io/badge/VIEW_1-Executive_Hybrid-0EA5E9?style=flat-square" alt="View 1" /></a>
-  <a href="#-proposal-2-cyber-terminal--biometric-scan"><img src="https://img.shields.io/badge/VIEW_2-Cyber_Terminal-00FF41?style=flat-square" alt="View 2" /></a>
-  <a href="#-proposal-3-living-aurora--project-constellation"><img src="https://img.shields.io/badge/VIEW_3-Living_Aurora-A855F7?style=flat-square" alt="View 3" /></a>
+  <a href="#-digital-engineer-communication-management-development--qa"><img src="https://img.shields.io/badge/THEME-Digital_Engineer_&_QA-0EA5E9?style=flat-square" alt="Digital Engineer & QA" /></a>
+  <a href="#-cyber-terminal--biometric-scan"><img src="https://img.shields.io/badge/THEME-Cyber_Terminal-00FF41?style=flat-square" alt="Cyber Terminal" /></a>
+  <a href="#-living-identity--project-constellation"><img src="https://img.shields.io/badge/THEME-Living_Identity-A855F7?style=flat-square" alt="Living Identity" /></a>
 </p>
 
 </div>
@@ -28,7 +26,7 @@
 ---
 
 <details open>
-<summary><h3>💎 PROPOSAL 1: Executive &amp; Engineering Hybrid (Default View - Click to Collapse)</h3></summary>
+<summary><h3>💎 Digital Engineer, Communication, Management, Development &amp; QA</h3></summary>
 <br/>
 
 <div align="center">
@@ -36,7 +34,7 @@
 <table width="100%">
 <tr>
 <td width="58%" valign="middle" align="left">
-  <p><sub>🟢 EXECUTIVE &amp; ENGINEERING PROFILE · TURIN, ITALY</sub></p>
+  <p><sub>🟢 DIGITAL ENGINEER · COMMUNICATION, MANAGEMENT, DEV &amp; QA · TURIN, ITALY</sub></p>
   <h2>Manoj Rollo</h2>
   <h4>Senior Digital Test Engineer · QA Manager · Project Manager &amp; AI Builder</h4>
   <p>
@@ -90,7 +88,7 @@
 ---
 
 <details>
-<summary><h3>📟 PROPOSAL 2: Cyber Terminal &amp; Biometric Scan (Click to Expand)</h3></summary>
+<summary><h3>📟 Cyber Terminal &amp; Biometric Scan</h3></summary>
 <br/>
 
 <div align="center">
@@ -152,7 +150,7 @@
 ---
 
 <details>
-<summary><h3>🌌 PROPOSAL 3: Living Aurora &amp; Project Constellation (Click to Expand)</h3></summary>
+<summary><h3>🌌 Living Identity &amp; Project Constellation</h3></summary>
 <br/>
 
 <div align="center">
