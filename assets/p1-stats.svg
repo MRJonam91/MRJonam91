@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="860" height="240" viewBox="0 0 860 240" role="img" aria-label="Manoj Rollo GitHub &amp; Executive Telemetry Signal">
+  <defs>
+    <linearGradient id="st-bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#070b14"/>
+      <stop offset="100%" stop-color="#0d1526"/>
+    </linearGradient>
+    <linearGradient id="st-top-line" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#0ea5e9" stop-opacity="0"/>
+      <stop offset="30%" stop-color="#38bdf8" stop-opacity="0.9"/>
+      <stop offset="70%" stop-color="#00ffa3" stop-opacity="0.9"/>
+      <stop offset="100%" stop-color="#00ffa3" stop-opacity="0"/>
+    </linearGradient>
+    <pattern id="st-grid" width="24" height="24" patternUnits="userSpaceOnUse">
+      <path d="M24 0H0V24" fill="none" stroke="#38bdf8" stroke-opacity="0.05" stroke-width="0.7"/>
+    </pattern>
+  </defs>
+
+  <rect width="860" height="240" rx="18" fill="url(#st-bg)" stroke="#38bdf8" stroke-opacity="0.4" stroke-width="1.5"/>
+  <rect width="860" height="240" rx="18" fill="url(#st-grid)"/>
+  <rect x="40" y="1" width="780" height="2" fill="url(#st-top-line)"/>
+
+  <!-- Header -->
+  <text x="34" y="42" font-family="ui-monospace,'SF Mono',Consolas,monospace" font-size="11" font-weight="800" letter-spacing="2.2" fill="#00ffa3">TELEMETRY.HUD // EXECUTIVE &amp; GITHUB SIGNAL</text>
+  <text x="826" y="42" text-anchor="end" font-family="ui-monospace,'SF Mono',Consolas,monospace" font-size="11" fill="#7dd3fc">@MRJonam91 · SYNC ACTIVE</text>
+  <line x1="34" y1="54" x2="826" y2="54" stroke="#38bdf8" stroke-opacity="0.22"/>
+
+  <!-- Card 1: Stars -->
+  <g transform="translate(34, 72)">
+    <rect width="186" height="140" rx="14" fill="#0b1120" stroke="#38bdf8" stroke-opacity="0.45"/>
+    <text x="20" y="30" font-family="ui-monospace,Consolas,monospace" font-size="11" font-weight="700" letter-spacing="1.4" fill="#94a3b8">GITHUB STARS</text>
+    <text x="20" y="76" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif" font-size="38" font-weight="900" fill="#38bdf8">61 ★</text>
+    <polyline points="20,105 48,100 76,103 104,92 132,95 164,84" fill="none" stroke="#38bdf8" stroke-width="2" stroke-linecap="round"/>
+    <rect x="20" y="118" width="146" height="6" rx="3" fill="#1e293b"/>
+    <rect x="20" y="118" width="112" height="6" rx="3" fill="#38bdf8"/>
+  </g>
+
+  <!-- Card 2: Contributions -->
+  <g transform="translate(236, 72)">
+    <rect width="186" height="140" rx="14" fill="#0b1120" stroke="#00ffa3" stroke-opacity="0.45"/>
+    <text x="20" y="30" font-family="ui-monospace,Consolas,monospace" font-size="11" font-weight="700" letter-spacing="1.4" fill="#94a3b8">CONTRIBUTIONS</text>
+    <text x="20" y="76" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif" font-size="38" font-weight="900" fill="#00ffa3">198</text>
+    <polyline points="20,104 48,96 76,99 104,88 132,90 164,80" fill="none" stroke="#00ffa3" stroke-width="2" stroke-linecap="round"/>
+    <rect x="20" y="118" width="146" height="6" rx="3" fill="#1e293b"/>
+    <rect x="20" y="118" width="136" height="6" rx="3" fill="#00ffa3"/>
+  </g>
+
+  <!-- Card 3: Public Repos -->
+  <g transform="translate(438, 72)">
+    <rect width="186" height="140" rx="14" fill="#0b1120" stroke="#38bdf8" stroke-opacity="0.45"/>
+    <text x="20" y="30" font-family="ui-monospace,Consolas,monospace" font-size="11" font-weight="700" letter-spacing="1.4" fill="#94a3b8">PUBLIC REPOS</text>
+    <text x="20" y="76" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif" font-size="38" font-weight="900" fill="#e0f2fe">35</text>
+    <polyline points="20,104 48,101 76,95 104,92 132,86 164,82" fill="none" stroke="#0ea5e9" stroke-width="2" stroke-linecap="round"/>
+    <rect x="20" y="118" width="146" height="6" rx="3" fill="#1e293b"/>
+    <rect x="20" y="118" width="124" height="6" rx="3" fill="#0ea5e9"/>
+  </g>
+
+  <!-- Card 4: Seniority & Impact -->
+  <g transform="translate(640, 72)">
+    <rect width="186" height="140" rx="14" fill="#0b1120" stroke="#00ffa3" stroke-opacity="0.45"/>
+    <text x="20" y="30" font-family="ui-monospace,Consolas,monospace" font-size="11" font-weight="700" letter-spacing="1.4" fill="#94a3b8">SENIORITY TRACK</text>
+    <text x="20" y="76" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif" font-size="36" font-weight="900" fill="#22c55e">11+ Yrs</text>
+    <text x="20" y="102" font-family="ui-monospace,Consolas,monospace" font-size="10.5" fill="#7dd3fc">QA · PM · Lead · MBA</text>
+    <rect x="20" y="118" width="146" height="6" rx="3" fill="#1e293b"/>
+    <rect x="20" y="118" width="146" height="6" rx="3" fill="#22c55e"/>
+  </g>
+</svg>

@@ -1,0 +1,62 @@
+name: 🎲 Rotate GitHub Profile README
+
+on:
+  schedule:
+    # Runs every day at 00:00 UTC (or adjust to '0 */12 * * *' for every 12 hours)
+    - cron: '0 0 * * *'
+  workflow_dispatch:
+    inputs:
+      specific_proposal:
+        description: 'Choose a specific proposal to deploy (leave "random" for automatic selection)'
+        required: false
+        default: 'random'
+        type: choice
+        options:
+          - 'random'
+          - 'all-in-one'
+          - '1'
+          - '2'
+          - '3'
+
+permissions:
+  contents: write
+
+jobs:
+  rotate:
+    runs-on: ubuntu-latest
+    steps:
+      - name: 📥 Checkout Repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 1
+
+      - name: 🔀 Select and Apply Profile
+        shell: bash
+        run: |
+          CHOICE="${{ github.event.inputs.specific_proposal }}"
+          
+          if [ "$CHOICE" = "all-in-one" ]; then
+            SELECTED="README-all-in-one-selectable.md"
+          elif [ -z "$CHOICE" ] || [ "$CHOICE" = "random" ]; then
+            OPTIONS=("README-proposta-1.md" "README-proposta-2.md" "README-proposta-3.md")
+            SELECTED=${OPTIONS[$RANDOM % ${#OPTIONS[@]}]}
+          else
+            SELECTED="README-proposta-${CHOICE}.md"
+          fi
+
+          echo "Selected Profile: $SELECTED"
+          cp "$SELECTED" README.md
+
+      - name: 🚀 Commit & Push Changes
+        shell: bash
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Actions Profile Rotator"
+          
+          if git diff --quiet README.md; then
+            echo "README.md is already up to date with the selected profile. No changes to commit."
+          else
+            git add README.md
+            git commit -m "chore(profile): rotate README to latest theme [skip ci]"
+            git push
+          fi

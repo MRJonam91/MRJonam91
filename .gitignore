@@ -1,0 +1,8 @@
+# OS Files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Scratch / temp
+*.tmp
+*.log

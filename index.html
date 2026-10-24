@@ -1,0 +1,233 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>MRJonam91 · GitHub Profile Studio — Interactive Themes &amp; Automation</title>
+  <link rel="stylesheet" href="styles.css" />
+  <style>
+    .cards-grid {
+      display: grid;
+      grid-template-columns: repeat(3, 1fr);
+      gap: 20px;
+      margin-bottom: 32px;
+    }
+    .p-card {
+      background: var(--gh-surface);
+      border: 1px solid var(--gh-border);
+      border-radius: 12px;
+      padding: 22px;
+      display: flex;
+      flex-direction: column;
+      justify-content: space-between;
+      transition: all 0.2s ease;
+    }
+    .p-card:hover {
+      border-color: var(--cyber-cyan);
+      transform: translateY(-3px);
+      box-shadow: 0 12px 28px rgba(14, 165, 233, 0.16);
+    }
+    .p-tag {
+      display: inline-block;
+      font-size: 11px;
+      font-weight: 700;
+      text-transform: uppercase;
+      letter-spacing: 0.8px;
+      padding: 4px 10px;
+      border-radius: 999px;
+      background: rgba(14, 165, 233, 0.15);
+      color: var(--cyber-cyan);
+      margin-bottom: 12px;
+    }
+    .p-card h3 {
+      margin: 0 0 10px;
+      color: #fff;
+      font-size: 18px;
+    }
+    .p-card p {
+      margin: 0 0 16px;
+      color: var(--gh-muted);
+      font-size: 13.5px;
+      line-height: 1.5;
+    }
+    .p-actions {
+      display: flex;
+      gap: 10px;
+      flex-wrap: wrap;
+    }
+    .feature-box {
+      background: #0d1117;
+      border: 1px solid #30363d;
+      border-radius: 12px;
+      padding: 24px;
+      margin-bottom: 32px;
+    }
+    .feature-grid {
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      gap: 20px;
+      margin-top: 16px;
+    }
+    .feature-item {
+      background: #161b22;
+      border: 1px solid rgba(56, 189, 248, 0.2);
+      border-radius: 8px;
+      padding: 18px;
+    }
+    .feature-item h4 {
+      margin: 0 0 8px;
+      color: var(--cyber-cyan);
+      font-size: 15px;
+    }
+    .feature-item p {
+      margin: 0;
+      color: var(--gh-muted);
+      font-size: 13px;
+      line-height: 1.5;
+    }
+    .random-btn {
+      background: linear-gradient(135deg, #0ea5e9, #00ff41);
+      color: #000 !important;
+      font-weight: 700;
+      border: none;
+      cursor: pointer;
+      padding: 10px 18px;
+      border-radius: 6px;
+      display: inline-flex;
+      align-items: center;
+      gap: 8px;
+      text-decoration: none;
+      transition: transform 0.15s ease, filter 0.15s ease;
+    }
+    .random-btn:hover {
+      transform: scale(1.03);
+      filter: brightness(1.1);
+    }
+    @media (max-width: 900px) {
+      .cards-grid, .feature-grid {
+        grid-template-columns: 1fr;
+      }
+    }
+  </style>
+</head>
+<body>
+
+  <header class="preview-topbar">
+    <div class="brand">
+      <span class="brand-dot"></span>
+      <div>
+        <a href="index.html" class="brand-title">MRJonam91 · GitHub Profile Studio</a>
+        <div class="brand-sub">Manoj Rollo · manoj.it · LinkedIn · GitHub</div>
+      </div>
+    </div>
+    <nav class="nav-pills">
+      <a href="index.html" class="nav-pill active">🎛️ Studio Hub</a>
+      <a href="proposta-1-executive.html" class="nav-pill">1️⃣ Executive Hybrid</a>
+      <a href="proposta-2-cyber-terminal.html" class="nav-pill">2️⃣ Cyber-Terminal</a>
+      <a href="proposta-3-living-aurora.html" class="nav-pill">3️⃣ Living Aurora</a>
+      <button onclick="openRandomProposal()" class="random-btn" style="padding:6px 12px;font-size:12px;">🎲 Random Profile</button>
+    </nav>
+    <div class="external-links">
+      <a href="https://manoj.it" target="_blank" class="ext-btn secondary">manoj.it ↗</a>
+      <a href="https://www.linkedin.com/in/manoj-rollo/" target="_blank" class="ext-btn secondary">LinkedIn ↗</a>
+      <a href="https://github.com/MRJonam91" target="_blank" class="ext-btn">GitHub ↗</a>
+      <a href="https://www.instagram.com/mr_jonam/" target="_blank" class="ext-btn secondary">Instagram ↗</a>
+      <a href="https://www.youtube.com/@MrJonam91" target="_blank" class="ext-btn secondary">YouTube ↗</a>
+    </div>
+  </header>
+
+  <main class="gh-wrapper">
+    <div class="proposal-banner">
+      <div>
+        <h2>🎛️ GitHub Profile Studio for Manoj Rollo (@MRJonam91)</h2>
+        <p>Explore the 3 tailor-made, high-density profiles below in authentic GitHub Dark layout. All proposals are 100% in English, optimized for technical recruiters &amp; engineering peers, and completely free of personal email addresses.</p>
+      </div>
+      <button onclick="openRandomProposal()" class="random-btn">🎲 Launch Random Profile</button>
+    </div>
+
+    <div class="cards-grid">
+      <!-- Proposal 1 -->
+      <div class="p-card">
+        <div>
+          <span class="p-tag">Proposal 1 · Executive &amp; Tech Lead</span>
+          <h3>Executive Signal Hybrid</h3>
+          <p>Bridges verified LinkedIn milestones, manoj.it expertise, and GitHub telemetry: Ultra-dense 152×114 micro-character portrait, glowing tech badges, 11+ years experience metrics, and strategic project matrix.</p>
+        </div>
+        <div class="p-actions">
+          <a href="proposta-1-executive.html" class="ext-btn">Live Preview ➔</a>
+          <a href="README-proposta-1.md" download class="ext-btn secondary">README.md</a>
+        </div>
+      </div>
+
+      <!-- Proposal 2 -->
+      <div class="p-card">
+        <div>
+          <span class="p-tag" style="color:#00ffa3;background:rgba(0,255,163,0.14);">Proposal 2 · Cyber Terminal</span>
+          <h3>Biometric Scan &amp; Neofetch HUD</h3>
+          <p>Authentic Hacker/Terminal aesthetic: 136×124 ASCII biometric scan with system telemetry and capability sliders, Neofetch specs, tail career logs, and green contribution-eating snake.</p>
+        </div>
+        <div class="p-actions">
+          <a href="proposta-2-cyber-terminal.html" class="ext-btn">Live Preview ➔</a>
+          <a href="README-proposta-2.md" download class="ext-btn secondary">README.md</a>
+        </div>
+      </div>
+
+      <!-- Proposal 3 -->
+      <div class="p-card">
+        <div>
+          <span class="p-tag" style="color:#38bdf8;background:rgba(56,189,248,0.14);">Proposal 3 · Living Aurora</span>
+          <h3>Living Identity &amp; Constellation</h3>
+          <p>Cosmic Aurora Borealis aesthetic: 134×124 ASCII portrait with 3D wordmark, floating capability indicators, interactive project constellation graph, and contribution energy field.</p>
+        </div>
+        <div class="p-actions">
+          <a href="proposta-3-living-aurora.html" class="ext-btn">Live Preview ➔</a>
+          <a href="README-proposta-3.md" download class="ext-btn secondary">README.md</a>
+        </div>
+      </div>
+    </div>
+
+    <!-- Selectable & Randomization Architecture Box -->
+    <div class="feature-box">
+      <div style="display:flex;justify-content:space-between;align-items:center;flex-wrap:wrap;gap:12px;">
+        <h3 style="margin:0;color:#fff;">🔄 Selectable &amp; Random Profiles on GitHub</h3>
+        <a href="README-all-in-one-selectable.md" class="ext-btn">View All-in-One Selectable README ➔</a>
+      </div>
+      <p style="color:var(--gh-muted);margin:8px 0 16px;font-size:14px;">
+        Because GitHub sanitizes Markdown and prevents client-side JavaScript execution for security reasons, here are the two native, bulletproof ways to have selectable or random profiles:
+      </p>
+      
+      <div class="feature-grid">
+        <div class="feature-item">
+          <h4>Option A: Native Selectable Dropdown Tabs (All-in-One)</h4>
+          <p>
+            Uses GitHub-supported native <code>&lt;details&gt;</code> and <code>&lt;summary&gt;</code> tags. Visitors to your GitHub profile can switch between <em>Proposal 1 (Executive)</em>, <em>Proposal 2 (Cyber Terminal)</em>, and <em>Proposal 3 (Living Aurora)</em> directly with a single click right on GitHub!
+            <br/><br/>
+            📁 File: <code>README-all-in-one-selectable.md</code>
+          </p>
+        </div>
+        <div class="feature-item">
+          <h4>Option B: Automated Random Rotation via GitHub Actions</h4>
+          <p>
+            An automated GitHub Actions workflow running on a schedule (e.g. daily at midnight UTC or every 12 hours) that randomly selects one of the 3 proposals and commits it to <code>README.md</code>. Your profile stays perpetually dynamic and surprising!
+            <br/><br/>
+            ⚙️ Workflow: <code>.github/workflows/rotate-profile.yml</code>
+          </p>
+        </div>
+      </div>
+    </div>
+  </main>
+
+  <script>
+    function openRandomProposal() {
+      const pages = [
+        'proposta-1-executive.html',
+        'proposta-2-cyber-terminal.html',
+        'proposta-3-living-aurora.html'
+      ];
+      const target = pages[Math.floor(Math.random() * pages.length)];
+      window.location.href = target;
+    }
+  </script>
+
+</body>
+</html>
