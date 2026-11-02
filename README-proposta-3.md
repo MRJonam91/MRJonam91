@@ -1,3 +1,22 @@
+<!-- project-entry:start -->
+## Build, try, give feedback / Prova e contribuisci
+
+I build local tools for traceable research, agent accounting and practical QA. / Sviluppo strumenti locali per ricerca verificabile, consumi degli agenti e QA pratico.
+
+| Start with / Comincia da | What you can try / Cosa puoi provare |
+|---|---|
+| [SourcePilot](https://github.com/MRJonam91/OpenResearchEngine) | [Trace a fictional source to a cited report / Da una fonte fittizia a un report citato](https://github.com/MRJonam91/OpenResearchEngine/blob/main/docs/FIRST-RUN.md), optional local AI / AI locale opzionale |
+| [AgentLedger](https://github.com/MRJonam91/AgentLedger) | [Offline token-accounting demo / Demo offline dei consumi](https://github.com/MRJonam91/AgentLedger#try-it-without-an-account), no API key / senza chiave API |
+| [Calice](https://mrjonam91.github.io/Calice/) | Italian wine lessons, glossary and a local notebook / Lezioni sul vino, glossario e taccuino locale; usable alpha / alpha utilizzabile |
+| [QA Express](https://github.com/MRJonam91/qa-express) | [Reusable test checklist / Checklist riutilizzabile](https://github.com/MRJonam91/qa-express/blob/main/templates/checklist.md) and a fictional report / e report fittizio |
+
+[More projects and support routes / Altri progetti e assistenza](PROJECTS.md). Tell me what you tried and where you got stuck, using a redacted example in the relevant repository. / Racconta cosa hai provato e dove ti sei bloccato, con un esempio anonimizzato nella repository pertinente.
+
+Voluntary support / Sostegno facoltativo: [GitHub Sponsors](https://github.com/sponsors/MRJonam91) · [Ko-fi](https://ko-fi.com/mrjonam) · [Buy Me a Coffee](https://buymeacoffee.com/mrjonam) · [PayPal](https://paypal.me/manorollo). Support grants no additional rights or licenses. / Il supporto non attribuisce licenze o diritti aggiuntivi.
+<!-- project-entry:end -->
+
+---
+
 <div align="center">
 
 <p><sub>✦ MANOJ ROLLO · DIGITAL ENGINEER, QA MANAGER, PM &amp; AI BUILDER · TURIN, ITALY ✦</sub></p>
@@ -38,8 +57,8 @@
   <p>
     🔹 <strong>11+</strong> Years of Experience<br/>
     🟢 <strong>Senior Consultant L2</strong> @ Reply<br/>
-    🔹 <strong>35</strong> Open-Source Repositories<br/>
-    🟢 <strong>61 ★</strong> Stars on GitHub<br/>
+    🔹 <strong><a href="https://github.com/MRJonam91?tab=repositories">Browse</a></strong> Open-Source Repositories<br/>
+    🟢 <strong><a href="https://github.com/MRJonam91?tab=repositories">Explore</a></strong> Projects on GitHub<br/>
     🔹 <strong>5</strong> Spoken Languages
   </p>
 </td>
