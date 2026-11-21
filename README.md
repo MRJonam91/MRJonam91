@@ -21,8 +21,7 @@ Voluntary support / Sostegno facoltativo: [GitHub Sponsors](https://github.com/s
 
 <p><sub>✦ MANOJ ROLLO · DIGITAL ENGINEER, QA MANAGER, PM &amp; AI BUILDER · TURIN, ITALY ✦</sub></p>
 
-<!-- Hero Living Identity Ultra-Dense: 134x124 Micro-Character Portrait + 3D ASCII Wordmark + Capability Bars -->
-<img src="./assets/p3-hero.svg" width="100%" alt="Manoj Rollo Living Identity Ultra-Dense ASCII Portrait & 3D Wordmark" />
+<h1>Manoj Rollo</h1>
 
 <br/><br/>
 
@@ -65,36 +64,37 @@ Voluntary support / Sostegno facoltativo: [GitHub Sponsors](https://github.com/s
 </tr>
 </table>
 
-<p align="center">
-  <img src="./assets/p3-highlights.svg" width="100%" alt="Manoj Rollo Highlights" />
-</p>
+<!-- github-data:start -->
+## GitHub in numeri / GitHub at a glance
+
+**78 repository pubbliche** · **115 stelle** · **11 follower**
+
+Stelle ricevute da tutte le repository pubbliche personali, inclusi fork e archivi. / Stars received across all personal public repositories, including forks and archived repositories.
+
+### Repository aggiornate di recente / Recently updated repositories
+
+Ultimi push; escluse repository archiviate, fork e questa pagina. / Latest pushes; excluding archived repositories, forks and this profile.
+
+| Repository | Descrizione / Description | Stelle / Stars |
+|---|---|---:|
+| [stocks](https://github.com/MRJonam91/stocks) | Progetto per futuri strumenti di consultazione dei mercati azionari. | 1 |
+| [crypto](https://github.com/MRJonam91/crypto) | Strumenti informativi per esplorare dati e analisi crypto. | 1 |
+| [gratta-e-vinci](https://github.com/MRJonam91/gratta-e-vinci) | Progetto informativo dedicato ai Gratta e Vinci. | 1 |
+| [sivincetutto](https://github.com/MRJonam91/sivincetutto) | Progetto per consultare le estrazioni SiVinceTutto. | 1 |
+| [eurojackpot](https://github.com/MRJonam91/eurojackpot) | Archivio e strumenti per esplorare le estrazioni Eurojackpot. | 1 |
+| [vincicasa](https://github.com/MRJonam91/vincicasa) | Progetto dedicato alla consultazione delle estrazioni VinciCasa. | 1 |
+
+[Tutte le repository pubbliche / All public repositories](https://github.com/MRJonam91?tab=repositories)
+
+<sub>Dati pubblici GitHub aggiornati ogni giorno tramite GitHub Actions. / Public GitHub data refreshed daily by GitHub Actions.</sub>
+<!-- github-data:end -->
 
 <p align="center"><sub>✦ ───────────────────────────── ✦</sub></p>
 
-## 🌌 Project Constellation &amp; Launch Timeline
-
-<p align="center">
-  <img src="./assets/p3-projects-wow.svg" width="100%" alt="Manoj Rollo Project Constellation" />
-</p>
-
-<p align="center">
-  <img src="./assets/p3-timeline.svg" width="100%" alt="Manoj Rollo Project Timeline" />
-</p>
-
-<p align="center"><sub>✦ ───────────────────────────── ✦</sub></p>
-
-## 🛠️ Technology Stack &amp; Contribution Heatmap
+## 🛠️ Technology Stack
 
 <p align="center">
   <img src="./assets/p3-stack.svg" width="100%" alt="Manoj Rollo Stack" />
-</p>
-
-<p align="center">
-  <img src="./assets/p3-stats.svg" width="100%" alt="Manoj Rollo Stats" />
-</p>
-
-<p align="center">
-  <img src="./assets/p3-heatmap.svg" width="100%" alt="Manoj Rollo Contribution Energy Field" />
 </p>
 
 <div align="center">
