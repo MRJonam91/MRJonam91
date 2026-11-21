@@ -211,17 +211,17 @@
 </g>
 <g transform="translate(282 492)" font-family="ui-monospace,Consolas,monospace">
   <text fill="#7dd3fc" font-size="10" letter-spacing="2">REPOSITORIES</text>
-  <text y="36" fill="#ecf4ff" font-size="28" font-weight="800">35</text>
+  <text y="36" fill="#ecf4ff" font-size="28" font-weight="800">78</text>
   <circle class="pulse" cx="175" cy="-4" r="3" fill="#38bdf8"/>
 </g>
 <g transform="translate(522 492)" font-family="ui-monospace,Consolas,monospace">
   <text fill="#7dd3fc" font-size="10" letter-spacing="2">GITHUB STARS</text>
-  <text y="36" fill="#38bdf8" font-size="28" font-weight="800">61 ★</text>
+  <text y="36" fill="#38bdf8" font-size="28" font-weight="800">115 ★</text>
   <circle class="pulse" cx="175" cy="-4" r="3" fill="#00ffa3"/>
 </g>
 <g transform="translate(762 492)" font-family="ui-monospace,Consolas,monospace">
   <text fill="#7dd3fc" font-size="10" letter-spacing="2">CONTRIBUTIONS</text>
-  <text y="36" fill="#00ffa3" font-size="28" font-weight="800">198</text>
+  <text y="36" fill="#00ffa3" font-size="28" font-weight="800">519</text>
   <circle class="pulse" cx="175" cy="-4" r="3" fill="#38bdf8"/>
 </g>
 <text x="960" y="556" text-anchor="end" fill="#8a9bb9" font-family="ui-monospace,Consolas,monospace" font-size="9">manoj.it · github.com/MRJonam91</text>

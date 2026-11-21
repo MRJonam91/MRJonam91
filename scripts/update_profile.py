@@ -5,6 +5,8 @@ import os
 from pathlib import Path
 from urllib.request import Request, urlopen
 
+from living_identity import get_calendar, render_artwork
+
 USER = 'MRJonam91'
 START = '<!-- github-data:start -->'
 END = '<!-- github-data:end -->'
@@ -63,7 +65,11 @@ def main():
         raise ValueError('Incomplete repository list; refusing to publish inaccurate counts')
     path = Path('README.md')
     original = path.read_text(encoding='utf-8')
-    path.write_text(replace_section(original, render(profile, repositories)), encoding='utf-8', newline='\n')
+    readme = replace_section(original, render(profile, repositories))
+    artwork = render_artwork(profile, repositories, get_calendar(USER))
+    for target, content in {path: readme, **artwork}.items():
+        if target.read_text(encoding='utf-8') != content:
+            target.write_text(content, encoding='utf-8', newline='\n')
 
 
 if __name__ == '__main__':

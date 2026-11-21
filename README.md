@@ -21,7 +21,8 @@ Voluntary support / Sostegno facoltativo: [GitHub Sponsors](https://github.com/s
 
 <p><sub>✦ MANOJ ROLLO · DIGITAL ENGINEER, QA MANAGER, PM &amp; AI BUILDER · TURIN, ITALY ✦</sub></p>
 
-<h1>Manoj Rollo</h1>
+<!-- Hero Living Identity Ultra-Dense: 134x124 Micro-Character Portrait + 3D ASCII Wordmark + Capability Bars -->
+<img src="./assets/p3-hero.svg" width="100%" alt="Manoj Rollo Living Identity Ultra-Dense ASCII Portrait & 3D Wordmark" />
 
 <br/><br/>
 
@@ -64,6 +65,38 @@ Voluntary support / Sostegno facoltativo: [GitHub Sponsors](https://github.com/s
 </tr>
 </table>
 
+<p align="center">
+  <img src="./assets/p3-highlights.svg" width="100%" alt="Manoj Rollo Highlights" />
+</p>
+
+<p align="center"><sub>✦ ───────────────────────────── ✦</sub></p>
+
+## 🌌 Project Constellation &amp; Launch Timeline
+
+<p align="center">
+  <img src="./assets/p3-projects-wow.svg" width="100%" alt="Manoj Rollo Project Constellation" />
+</p>
+
+<p align="center">
+  <img src="./assets/p3-timeline.svg" width="100%" alt="Manoj Rollo Project Timeline" />
+</p>
+
+<p align="center"><sub>✦ ───────────────────────────── ✦</sub></p>
+
+## 🛠️ Technology Stack &amp; Contribution Heatmap
+
+<p align="center">
+  <img src="./assets/p3-stack.svg" width="100%" alt="Manoj Rollo Stack" />
+</p>
+
+<p align="center">
+  <img src="./assets/p3-stats.svg" width="100%" alt="Manoj Rollo Stats" />
+</p>
+
+<p align="center">
+  <img src="./assets/p3-heatmap.svg" width="100%" alt="Manoj Rollo Contribution Energy Field" />
+</p>
+
 <!-- github-data:start -->
 ## GitHub in numeri / GitHub at a glance
 
@@ -88,14 +121,6 @@ Ultimi push; escluse repository archiviate, fork e questa pagina. / Latest pushe
 
 <sub>Dati pubblici GitHub aggiornati ogni giorno tramite GitHub Actions. / Public GitHub data refreshed daily by GitHub Actions.</sub>
 <!-- github-data:end -->
-
-<p align="center"><sub>✦ ───────────────────────────── ✦</sub></p>
-
-## 🛠️ Technology Stack
-
-<p align="center">
-  <img src="./assets/p3-stack.svg" width="100%" alt="Manoj Rollo Stack" />
-</p>
 
 <div align="center">
   <p><sub>✨ <strong>Manoj Rollo</strong> · <a href="https://manoj.it">manoj.it</a> · <a href="https://www.linkedin.com/in/manoj-rollo/">LinkedIn</a> · <a href="https://github.com/MRJonam91">GitHub</a> · <a href="https://www.instagram.com/mr_jonam/">Instagram</a> · <a href="https://www.youtube.com/@MrJonam91">YouTube</a> · <a href="https://www.behance.net/fbxmanoddc8">Behance</a></sub></p>
