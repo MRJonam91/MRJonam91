@@ -100,7 +100,7 @@ Voluntary support / Sostegno facoltativo: [GitHub Sponsors](https://github.com/s
 <!-- github-data:start -->
 ## GitHub in numeri / GitHub at a glance
 
-**78 repository pubbliche** · **115 stelle** · **11 follower**
+**78 repository pubbliche** · **115 stelle** · **12 follower**
 
 Stelle ricevute da tutte le repository pubbliche personali, inclusi fork e archivi. / Stars received across all personal public repositories, including forks and archived repositories.
 
