@@ -100,7 +100,7 @@ Voluntary support / Sostegno facoltativo: [GitHub Sponsors](https://github.com/s
 <!-- github-data:start -->
 ## GitHub in numeri / GitHub at a glance
 
-**78 repository pubbliche** · **115 stelle** · **12 follower**
+**78 repository pubbliche** · **155 stelle** · **11 follower**
 
 Stelle ricevute da tutte le repository pubbliche personali, inclusi fork e archivi. / Stars received across all personal public repositories, including forks and archived repositories.
 
@@ -110,12 +110,12 @@ Ultimi push; escluse repository archiviate, fork e questa pagina. / Latest pushe
 
 | Repository | Descrizione / Description | Stelle / Stars |
 |---|---|---:|
-| [sotto-l-albero](https://github.com/MRJonam91/sotto-l-albero) | Secret Santa per gruppi privati con desideri, lettere e minigiochi. Private gift exchanges with wishlists, mini-games and group challenges. | 1 |
-| [stocks](https://github.com/MRJonam91/stocks) | Progetto per futuri strumenti di consultazione dei mercati azionari. | 1 |
-| [crypto](https://github.com/MRJonam91/crypto) | Strumenti informativi per esplorare dati e analisi crypto. | 1 |
-| [gratta-e-vinci](https://github.com/MRJonam91/gratta-e-vinci) | Progetto informativo dedicato ai Gratta e Vinci. | 1 |
-| [sivincetutto](https://github.com/MRJonam91/sivincetutto) | Progetto per consultare le estrazioni SiVinceTutto. | 1 |
-| [eurojackpot](https://github.com/MRJonam91/eurojackpot) | Archivio e strumenti per esplorare le estrazioni Eurojackpot. | 1 |
+| [sotto-l-albero](https://github.com/MRJonam91/sotto-l-albero) | Secret Santa per gruppi privati con desideri, lettere e minigiochi. Private gift exchanges with wishlists, mini-games and group challenges. | 2 |
+| [stocks](https://github.com/MRJonam91/stocks) | Progetto per futuri strumenti di consultazione dei mercati azionari. | 2 |
+| [crypto](https://github.com/MRJonam91/crypto) | Strumenti informativi per esplorare dati e analisi crypto. | 2 |
+| [gratta-e-vinci](https://github.com/MRJonam91/gratta-e-vinci) | Progetto informativo dedicato ai Gratta e Vinci. | 2 |
+| [sivincetutto](https://github.com/MRJonam91/sivincetutto) | Progetto per consultare le estrazioni SiVinceTutto. | 2 |
+| [eurojackpot](https://github.com/MRJonam91/eurojackpot) | Archivio e strumenti per esplorare le estrazioni Eurojackpot. | 2 |
 
 [Tutte le repository pubbliche / All public repositories](https://github.com/MRJonam91?tab=repositories)
 
