@@ -100,7 +100,7 @@ Voluntary support / Sostegno facoltativo: [GitHub Sponsors](https://github.com/s
 <!-- github-data:start -->
 ## GitHub in numeri / GitHub at a glance
 
-**78 repository pubbliche** · **155 stelle** · **11 follower**
+**86 repository pubbliche** · **163 stelle** · **11 follower**
 
 Stelle ricevute da tutte le repository pubbliche personali, inclusi fork e archivi. / Stars received across all personal public repositories, including forks and archived repositories.
 
@@ -110,12 +110,12 @@ Ultimi push; escluse repository archiviate, fork e questa pagina. / Latest pushe
 
 | Repository | Descrizione / Description | Stelle / Stars |
 |---|---|---:|
-| [sotto-l-albero](https://github.com/MRJonam91/sotto-l-albero) | Secret Santa per gruppi privati con desideri, lettere e minigiochi. Private gift exchanges with wishlists, mini-games and group challenges. | 2 |
-| [stocks](https://github.com/MRJonam91/stocks) | Progetto per futuri strumenti di consultazione dei mercati azionari. | 2 |
-| [crypto](https://github.com/MRJonam91/crypto) | Strumenti informativi per esplorare dati e analisi crypto. | 2 |
-| [gratta-e-vinci](https://github.com/MRJonam91/gratta-e-vinci) | Progetto informativo dedicato ai Gratta e Vinci. | 2 |
-| [sivincetutto](https://github.com/MRJonam91/sivincetutto) | Progetto per consultare le estrazioni SiVinceTutto. | 2 |
-| [eurojackpot](https://github.com/MRJonam91/eurojackpot) | Archivio e strumenti per esplorare le estrazioni Eurojackpot. | 2 |
+| [codex-social-channel-skills](https://github.com/MRJonam91/codex-social-channel-skills) | Skill Codex per Instagram, LinkedIn, YouTube, TikTok, X, Threads e Reddit, con flussi di misurazione. | 1 |
+| [codex-social-playbooks](https://github.com/MRJonam91/codex-social-playbooks) | Skill Codex in italiano per strategia social, validazione e lancio di progetti e community. | 1 |
+| [dnd-ai-skills](https://github.com/MRJonam91/dnd-ai-skills) | Sette skill AI in italiano per D&amp;D. Guida e video per Dungeon Master, avventure, regole 2014 e 2024, mappe e profili per Codex, Claude, Gemini e Ollama. | 1 |
+| [tcg-development](https://github.com/MRJonam91/tcg-development) | Skill per TCG originali, motori di regole, curve di costo, matchup e probabilità esatte di pesca. | 1 |
+| [digital-game-development](https://github.com/MRJonam91/digital-game-development) | Skill per core loop, vertical slice, gameplay QA, compatibilità dei salvataggi e verifica delle release. | 1 |
+| [board-game-development](https://github.com/MRJonam91/board-game-development) | Skill per progettare giochi da tavolo, scrivere regolamenti, condurre playtest al buio e verificare materiali di stampa. | 1 |
 
 [Tutte le repository pubbliche / All public repositories](https://github.com/MRJonam91?tab=repositories)
 
